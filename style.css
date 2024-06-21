@@ -42,4 +42,8 @@ h1 {
     padding-bottom: 5px;
     font-family: sans-serif;
     font-size: 20px;
+    color: white;
+}
+a{
+    text-decoration: none;
 }
